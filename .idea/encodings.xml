@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ConfigurationCenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationCenter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Configuration_center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Configuration_center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MercenaryAccount/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MercenaryAccount/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MercenaryAccountContentsProvider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MercenaryAccountContentsProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RegisterServiceProvider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RegisterServiceProvider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RegistrationCenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RegistrationCenter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RegistrationCenter_1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RegistrationCenter_1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registration_Center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/registration_Center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: MercenaryAccount
+  datasource:
+    data-username: root
+    data-password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mercenary_account_contents?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+    type: com.alibaba.druid.pool.DruidDataSource
+
+mybatis:
+  type-aliases-package: com.Pojo
+
+logging:
+  level:
+    root: info
+
+
+server:
+  port: 9902
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/,http://localhost:8762/eureka/
