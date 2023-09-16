@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ConfigurationCenter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ConfigurationCenter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationClient/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationServer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Configuration_center/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Configuration_center/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/MercenaryAccount/src/main/java" charset="UTF-8" />

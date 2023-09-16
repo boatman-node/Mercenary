@@ -13,7 +13,8 @@
         <module>RegisterServiceProvider</module>
         <module>RegistrationCenter_1</module>
         <module>MercenaryAccount</module>
-        <module>ConfigurationCenter</module>
+        <module>ConfigurationClient</module>
+        <module>ConfigurationServer</module>
     </modules>
 
     <properties>

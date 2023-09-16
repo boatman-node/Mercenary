@@ -9,6 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/ConfigurationCenter/pom.xml" />
         <option value="$PROJECT_DIR$/MercenaryAccountContentsProvider/pom.xml" />
         <option value="$PROJECT_DIR$/Registration_Center/pom.xml" />
       </set>
