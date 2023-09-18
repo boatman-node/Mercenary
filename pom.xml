@@ -15,6 +15,7 @@
         <module>MercenaryAccount</module>
         <module>ConfigurationClient</module>
         <module>ConfigurationServer</module>
+        <module>GatewayService</module>
     </modules>
 
     <properties>

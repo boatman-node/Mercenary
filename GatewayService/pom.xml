@@ -7,10 +7,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ConfigurationServer</artifactId>
+    <artifactId>GatewayService</artifactId>
     <packaging>jar</packaging>
 
-    <name>ConfigurationServer</name>
+    <name>GatewayService</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -24,10 +24,9 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-config-server</artifactId>
+            <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
         </dependency>
 
         <dependency>
@@ -40,5 +39,4 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
     </dependencies>
-
 </project>
