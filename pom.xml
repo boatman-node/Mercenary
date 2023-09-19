@@ -16,6 +16,7 @@
         <module>ConfigurationClient</module>
         <module>ConfigurationServer</module>
         <module>GatewayService</module>
+        <module>ZipkinService</module>
     </modules>
 
     <properties>

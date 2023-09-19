@@ -7,10 +7,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>RegisterServiceProvider</artifactId>
+    <artifactId>ZipkinService</artifactId>
     <packaging>jar</packaging>
 
-    <name>RegisterServiceProvider</name>
+    <name>ZipkinService</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -24,7 +24,6 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -34,7 +33,6 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-sleuth</artifactId>
