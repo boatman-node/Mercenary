@@ -99,17 +99,14 @@
                 <type>${All-type}</type>
                 <scope>${All-scope}</scope>
             </dependency>
-
             <dependency>
                 <groupId>redis.clients</groupId>
                 <artifactId>jedis</artifactId>
             </dependency>
-
             <dependency>
                 <groupId>org.apache.commons</groupId>
                 <artifactId>commons-pool2</artifactId>
             </dependency>
-
         </dependencies>
     </dependencyManagement>
 
